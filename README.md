@@ -8,6 +8,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/zaky-amani/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
     <a href="https://codeforces.com/profile/zakyamanii"><img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces" /></a>
+    <a href="https://icpc.global/ICPCID/AG4YHV8VLHT1"><img src="https://img.shields.io/badge/ICPC_ID-0D1117?style=for-the-badge&logo=icpc&logoColor=F8B800" alt="ICPC ID" /></a>
     <a href="https://tlx.toki.id/profiles/zakyamani"><img src="https://img.shields.io/badge/TLX_TOKI-0D1117?style=for-the-badge&logo=codechef&logoColor=58A6FF" alt="TLX TOKI" /></a>
     <a href="mailto:mzakyrice@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
   </p>
@@ -15,7 +16,7 @@
 
 ### `$ whoami`
 
-```yaml
+~~~yaml
 name: Muhammad Zaky Amani
 education: Bachelor in Computer Science (STEI-K), Institut Teknologi Bandung
 focus_areas:
@@ -23,11 +24,12 @@ focus_areas:
   - Low-Level Systems, Software Engineering & High-Performance Computing
   - Scalable Back-End Architecture & RESTful APIs
 environment: Linux (WSL2) / GCC & MSYS2 / QEMU / CLI-first workflow
-```
+~~~
 
 ### `🛠️ Tech Stack & Tools`
 
-**Languages**
+**Languages:**
+
 <p>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -38,7 +40,8 @@ environment: Linux (WSL2) / GCC & MSYS2 / QEMU / CLI-first workflow
   <img src="https://img.shields.io/badge/GNU_Prolog-E61B23?style=for-the-badge&logo=gnu&logoColor=white" alt="Prolog" />
 </p>
 
-**Back-End, Systems & Environment**
+**Back-End, Systems & Environment:**
+
 <p>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
   <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
